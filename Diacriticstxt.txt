@@ -1,0 +1,9 @@
+ ّ    | # Tashdid
+                              َ    | # Fatha
+                             ً    | # Tanwin Fath
+                              ُ    | # Damma
+                              ٌ    | # Tanwin Damm
+                              ِ    | # Kasra
+                              ٍ    | # Tanwin Kasr
+                              ْ    | # Sukun
+                              ـ 
